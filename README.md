@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # EKS and RDS in the Same VPC - Terraform Deployment
 
 ## Overview
